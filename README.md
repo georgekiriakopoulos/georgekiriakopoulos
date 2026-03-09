@@ -38,7 +38,7 @@ I build applications end-to-end and enjoy both the technical and product side of
 
 #### 📊 GitHub Stats
 
-![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgekiriakopoulos&show_icons=true&theme=default&hide_border=true)
+![George's GitHub stats](https://readme-stats-fast.vercel.app/api?username=georgekiriakopoulos&show_icons=true&theme=default&hide_border=true)
 
 ---
 
