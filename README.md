@@ -1,8 +1,8 @@
 ### Hi there, I'm George 👋
 
-**Software Developer** based in Athens, Greece.
+**Software Engineer** based in Athens, Greece.
 
-I build web apps, work with AI, and enjoy systems-level programming. Currently into Next.js, Python, and Kubernetes.
+I build applications end-to-end and enjoy both the technical and product side of building software for users. Especially interested in distributed systems, scalability, and reliability. Working with Python, Django, FastAPI, Vue.js, React.
 
 ---
 
@@ -42,4 +42,4 @@ I build web apps, work with AI, and enjoy systems-level programming. Currently i
 
 ---
 
-*Always learning. Open to collaboration.*
+*Always keen to learn more. Open to collaboration.*
