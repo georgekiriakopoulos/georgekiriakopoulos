@@ -30,7 +30,6 @@ I build applications end-to-end and enjoy both the technical and product side of
 
 | Project | Description |
 |---------|-------------|
-| [pirate-jobs](https://github.com/georgekiriakopoulos/pirate-jobs) | Job board for startup jobs in Greece – Next.js, Redis, email subscriptions |
 | [auctions-website](https://github.com/georgekiriakopoulos/auctions-website) | Web app for creating and managing product auctions |
 | [AI-Pacman-Solutions](https://github.com/georgekiriakopoulos/AI-Pacman-Solutions) | Berkeley AI course assignments – search, multi-agent systems |
 | [k8s-playground](https://github.com/georgekiriakopoulos/k8s-playground) | Kubernetes experiments and learning |
