@@ -10,7 +10,6 @@ I build applications end-to-end and enjoy both the technical and product side of
 
 [![Website](https://img.shields.io/badge/Website-giorgos--dev.vercel.app-0ea5e9?style=flat-square)](https://giorgos-dev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-George_Kiriakopoulos-0a66c2?style=flat-square&logo=linkedin)](https://linkedin.com/in/georgekiriakopoulos)
-[![Twitter](https://img.shields.io/badge/Twitter-@georgekiriakopoulos-1da1f2?style=flat-square&logo=x)](https://twitter.com/georgekiriakopoulos)
 
 ---
 
