@@ -26,20 +26,10 @@ I build applications end-to-end and enjoy both the technical and product side of
 
 ---
 
-#### 📌 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [auctions-website](https://github.com/georgekiriakopoulos/auctions-website) | Web app for creating and managing product auctions |
-| [AI-Pacman-Solutions](https://github.com/georgekiriakopoulos/AI-Pacman-Solutions) | Berkeley AI course assignments – search, multi-agent systems |
-| [k8s-playground](https://github.com/georgekiriakopoulos/k8s-playground) | Kubernetes experiments and learning |
-
----
-
 #### 📊 GitHub Stats
 
 ![George's GitHub stats](https://readme-stats-fast.vercel.app/api?username=georgekiriakopoulos&show_icons=true&theme=default&hide_border=true)
 
 ---
 
-*Always keen to learn more. Open to collaboration.*
+*Always keen to learn more. Open to collaboration and contributing to open-source projects!*
