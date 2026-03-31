@@ -9,7 +9,7 @@ I build applications end-to-end and enjoy both the technical and product side of
 #### 🔗 Connect
 
 [![Website](https://img.shields.io/badge/Website-giorgos--dev.vercel.app-0ea5e9?style=flat-square)](https://giorgos-dev.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-George_Kiriakopoulos-0a66c2?style=flat-square&logo=linkedin)](https://linkedin.com/in/georgekiriakopoulos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-George_Kiriakopoulos-0a66c2?style=flat-square&logo=linkedin)]([https://linkedin.com/in/georgekiriakopoulos](https://www.linkedin.com/in/giorgos-kiriakopoulos/))
 
 ---
 
