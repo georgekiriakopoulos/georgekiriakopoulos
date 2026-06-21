@@ -6,23 +6,4 @@ I build applications end-to-end and enjoy both the technical and product side of
 
 ---
 
-#### 🛠 Tech & Interests
-
-![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092e20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-
----
-
-#### 📊 GitHub Stats
-
-![George's GitHub stats](https://readme-stats-fast.vercel.app/api?username=georgekiriakopoulos&show_icons=true&theme=default&hide_border=true)
-
----
-
 *Always keen to learn more. Open to collaboration and contributing to open-source projects!*
